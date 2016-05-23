@@ -1,7 +1,7 @@
 # ClonePac
 CAMpac for Futaba old school transmitters
 
-This is a reposetory to make 16k CAMpac modules. These modules are a memory exension for Futaba transmitters like the FC-18.
+This is a repository to make 16k CAMpac modules. These modules are a memory exension for Futaba transmitters like the FC-18.
 
 ![FC-18](https://raw.githubusercontent.com/Metroid77/ClonePac/master/JPG/FC-18.jpg)
 
