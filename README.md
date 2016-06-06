@@ -10,6 +10,14 @@ A CAMpac module is like this:
 
 The module is a plastic container with a litte PCB and some electronics on it.
 
+Components you need:
+* a piece of single sided PCB for etching (see video)
+* a 24LC16B/P I2C Serial EEPROM
+* 7way 2mm pitch Receptacle (female) header
+* 3K3 5% 0.5W resistor
+* a good soldering iron with a small tip
+* a mulimeter to find the errors by soldring
+
 A finished ClonePac Front:
 ![ConePac](https://raw.githubusercontent.com/Metroid77/ClonePac/master/JPG/ClonePac_Front_small.jpg)
 
@@ -18,11 +26,3 @@ And the Back side:
 
 You can etch you PCB yourself. Find some instructions how to do this on Youtube, like this one: 
 [![Circuit Skills: Circuit Board Etching](http://img.youtube.com/vi/tWnfnt2rNO0/0.jpg)](https://www.youtube.com/watch?v=tWnfnt2rNO0)
-
-Components you need:
-* a piece of single sided PCB for etching (see video)
-* a 24LC16B/P I2C Serial EEPROM
-* 7way 2mm pitch Receptacle (female) header
-* 3K3 5% 0.5W resistor
-* a good soldering iron with a small tip
-* a mulimeter to find the errors by soldring
