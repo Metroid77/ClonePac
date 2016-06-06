@@ -17,5 +17,4 @@ And the Back side:
 ![ConePac](https://raw.githubusercontent.com/Metroid77/ClonePac/master/JPG/ClonePac_Back_small.jpg)
 
 You can etch you PCB yourself. Find some instructions how to dow this on Youtube, like this one: 
-[![Circuit Skills: Circuit Board Etching](http://img.youtube.com/vi/tWnfnt2rNO0/0.jpg)]
-https://www.youtube.com/watch?v=tWnfnt2rNO0
+[![Circuit Skills: Circuit Board Etching](http://img.youtube.com/vi/tWnfnt2rNO0/0.jpg)]https://www.youtube.com/watch?v=tWnfnt2rNO0
