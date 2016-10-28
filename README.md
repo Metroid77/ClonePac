@@ -5,7 +5,7 @@ This is a repository to make 16k CAMpac modules. These modules are a memory exen
 
 ![FC-18](https://raw.githubusercontent.com/Metroid77/ClonePac/master/JPG/FC-18.jpg)
 
-A CAMpac module is like this:
+A CAMpac module like this:
 
 ![CAMpac](https://raw.githubusercontent.com/Metroid77/ClonePac/master/JPG/p-dp-16k.jpg)
 
@@ -14,10 +14,10 @@ The module is a plastic container with a litte PCB and some electronics on it.
 Components you need:
 * a piece of single sided PCB for etching (see video)
 * a 24LC16B/P I2C Serial EEPROM
-* 7way 2mm pitch Receptacle (female) header
+* 7way 2mm pitch Receptacle (female) header, or greater to cut to size.
 * 3K3 5% 0.5W resistor
 * a good soldering iron with a small tip
-* a mulimeter to find the errors by soldring
+* a mulimeter to find the errors by soldering
 
 A finished ClonePac Front:
 ![ConePac](https://raw.githubusercontent.com/Metroid77/ClonePac/master/JPG/ClonePac_Front_small.jpg)
